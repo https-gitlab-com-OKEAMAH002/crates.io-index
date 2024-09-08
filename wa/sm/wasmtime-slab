@@ -1,0 +1,13 @@
+{"name":"wasmtime-slab","vers":"19.0.0","deps":[],"cksum":"83448ef600ad95977019ebaea84a5516fdbc9561d0a8e26b1e099351f993b527","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"19.0.1","deps":[],"cksum":"52d7b97b92df126fdbe994a53d2215828ec5ed5087535e6d4703b1fbd299f0e3","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"19.0.2","deps":[],"cksum":"20c58bef9ce877fd06acb58f08d003af17cb05cc51225b455e999fbad8e584c0","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"20.0.0","deps":[],"cksum":"8b3655075824a374c536a2b2cc9283bb765fcdf3d58b58587862c48571ad81ef","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"20.0.1","deps":[],"cksum":"05c8ddfb8ebbab6ac186bc1f8c02ed988bc9ea455fea10f72bc3a07503309b4b","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"20.0.2","deps":[],"cksum":"ca6585868f5c427c3e9d2a8c0c3354e6d7d4518a0d17723ab25a0c1eebf5d5b4","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"21.0.0","deps":[],"cksum":"90814f57c64afa02324829c3a8f88616ce3a75f1b2ce9728d34827d21329a836","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"21.0.1","deps":[],"cksum":"4ff75cafffe47b04b036385ce3710f209153525b0ed19d57b0cf44a22d446460","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"22.0.0","deps":[],"cksum":"0a7de1f2bec5bbb35d532e61c85c049dc84ae671df60492f90b954ecf21169e7","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"23.0.0","deps":[],"cksum":"a697e65a3f2d0ac994b404d9949b96df3d347c35b04f5fba6c88a33b9382e41e","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"23.0.1","deps":[],"cksum":"f3ac25f8f80a3c5cda4ea68472057b23fa309956ae9784c0f1347439e624840e","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"23.0.2","deps":[],"cksum":"42eb8f6515708ec67974998c3e644101db4186308985f5ef7c2ef324ff33c948","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"24.0.0","deps":[],"cksum":"1f68d38fa6b30c5e1fc7d608263062997306f79e577ebd197ddcd6b0f55d87d1","features":{},"yanked":false}

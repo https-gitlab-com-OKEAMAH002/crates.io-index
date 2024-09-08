@@ -1,0 +1,15 @@
+{"name":"stak-process-context","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.19.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ec53c5bb6aa5b9a8e6998faafd63e9947560d02683628ed4109b9ae55ee87e61","features":{},"features2":{"std":["dep:once_cell"]},"yanked":false,"v":2}
+{"name":"stak-process-context","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.19.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3d32e8520f90064095ec9c9d5d40dd8dbf31a5ca5b543ae129b97a8b2d25b89a","features":{},"features2":{"std":["dep:once_cell"]},"yanked":false,"v":2}
+{"name":"stak-process-context","vers":"0.2.1","deps":[{"name":"once_cell","req":"^1.19.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c4c444628e61834c6dc7aac8ec732028333db4b590670e32dde7e7bfe4e1c09a","features":{"libc":[]},"features2":{"std":["dep:once_cell"]},"yanked":false,"v":2}
+{"name":"stak-process-context","vers":"0.2.2","deps":[],"cksum":"90921d43c5077f253b333e93ec934e9ec13b8bbfe385e9c0639ec9d6cbe022e9","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.3","deps":[],"cksum":"31f890e5f3fe3c10429a65a3818ed1982e1be3159a5afc018ebfc9b72d400b3b","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.4","deps":[],"cksum":"a2daa9eceab5e117d080ed101b6664c9cb9ff6c2e24f4bbaadf9ac5495755929","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.5","deps":[],"cksum":"15b6b6cd7236cda38728ac968f6ee1455bb1df8811e34c8602f6749f45d46b28","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.6","deps":[],"cksum":"2550132692b42b67b56f8991dc5bf562eab6163391e4dd777ea8d0647bf235d0","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.7","deps":[],"cksum":"0021c11b23c5948f5aaaeadd6ea1142cf4d7ad195cc68b3bc20ba2153babf097","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.8","deps":[],"cksum":"07f73fbd1bb09a2908826fa0656d4d0ac0af2469615b50faf2fa51d1edba822d","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.9","deps":[],"cksum":"4097c674a18a6783242ae703cad7c53bbaeb769b9ada7d6b36f486c8c9924f0f","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.10","deps":[],"cksum":"1640b3c75b1e08ce47e12bf2607403779141f34aa78a3202e502c5d0c862ece2","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.11","deps":[],"cksum":"5c7e73bf820e56243f3d1193b9b2ab813a10861e58ce7039c0ad2f3922d848bb","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.12","deps":[],"cksum":"df444a1ed33f73b34380db266aab0e9c240a8a7cb1ba29b3eb0e3a474ada7674","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.13","deps":[],"cksum":"21e1306c8d4f529e9bc71b09963a3c38190d23d5badb781c237eed6dc69f465d","features":{"libc":[],"std":[]},"yanked":false}
