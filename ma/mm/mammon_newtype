@@ -1,0 +1,1 @@
+{"name":"mammon_newtype","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5047d7bedb36514b46f254bde65c8d3032483eb54553c228b0f2797cf2bed42e","features":{"default":["std"],"std":[]},"yanked":false}
