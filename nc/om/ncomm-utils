@@ -1,0 +1,1 @@
+{"name":"ncomm-utils","vers":"1.0.0","deps":[],"cksum":"d1f1184c5d0d29b259ddb27fbfc8d234add44128c1aea8d277cdf21cb09a5f90","features":{"default":["std"],"nostd":[],"std":[]},"yanked":false}
