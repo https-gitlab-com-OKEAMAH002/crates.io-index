@@ -1,1 +1,2 @@
 {"name":"rama-udp","vers":"0.2.0-alpha.2","deps":[],"cksum":"6d9ea7b632ee87aedcd13d130fc5d85ea667797c1d0b0edd83f99e1fb256c668","features":{"default":[]},"yanked":false,"rust_version":"1.80.0"}
+{"name":"rama-udp","vers":"0.2.0-alpha.3","deps":[],"cksum":"44f55e929dd3ea518eabbca219071f3ad5c988baf45eac4ed905027cb60cfc5f","features":{"default":[]},"yanked":false,"rust_version":"1.80.0"}
