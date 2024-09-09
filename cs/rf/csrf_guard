@@ -1,1 +1,2 @@
 {"name":"csrf_guard","vers":"0.1.0","deps":[{"name":"uuid","req":"^1.10.0","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"311d88d4cfad35e6c4ac02ab578dfe2a347fa907dd237bc03f480aafe31c0252","features":{},"yanked":false}
+{"name":"csrf_guard","vers":"0.1.1","deps":[{"name":"uuid","req":"^1.10.0","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fbd462ce1a3e0d7ab8c99bd2b5dd5481ac510e7383f36c9ac2e66909b184a64","features":{},"yanked":false}
