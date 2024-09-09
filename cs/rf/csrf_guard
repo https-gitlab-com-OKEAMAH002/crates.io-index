@@ -1,0 +1,1 @@
+{"name":"csrf_guard","vers":"0.1.0","deps":[{"name":"uuid","req":"^1.10.0","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"311d88d4cfad35e6c4ac02ab578dfe2a347fa907dd237bc03f480aafe31c0252","features":{},"yanked":false}
