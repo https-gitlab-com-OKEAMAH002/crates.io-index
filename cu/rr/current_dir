@@ -1,0 +1,1 @@
+{"name":"current_dir","vers":"0.1.0","deps":[{"name":"with_drop","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"77d3fea2042747caa5a645dc121e459a61eae1af7e8bb61fe27cdcf85f5c5eb0","features":{"full_expected_cwd":[],"unstable":[]},"yanked":false}
