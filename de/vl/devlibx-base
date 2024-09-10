@@ -12,3 +12,4 @@
 {"name":"devlibx-base","vers":"0.0.20","deps":[],"cksum":"5dd64f4f6e534a1b8dda487e6070b4ecd24ca79c0f5a09d5f4c3846f4f3ef357","features":{},"yanked":false}
 {"name":"devlibx-base","vers":"0.0.21","deps":[],"cksum":"79e0dd8c8eac7322f3c5c7f55c3d5d266fc67cc5b84691be4d99edc7c99bafdf","features":{},"yanked":false}
 {"name":"devlibx-base","vers":"0.0.110","deps":[],"cksum":"fa62f06c5a525a160f2485d1cd0f18629baf97b3807e1311cb60888dcadc5202","features":{},"yanked":false}
+{"name":"devlibx-base","vers":"0.0.111","deps":[],"cksum":"e088989be3c8d1df78b137b0a8f9004c0af9a831c0196bfa3baf365b25b3a4e2","features":{},"yanked":false}
