@@ -1,0 +1,1 @@
+{"name":"ppc750cl-asm","vers":"0.3.0","deps":[{"name":"phf","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f020a39c9dc1ee2d4c7090f8bd467f4845f19f88ae99f79931307f1db1fb3f2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74"}
