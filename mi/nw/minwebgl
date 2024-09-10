@@ -1,0 +1,1 @@
+{"name":"minwebgl","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1f36c0582a47e04578dae215b5e7838d5d7c6e31bf55dd9920510e0d06d333fc","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
