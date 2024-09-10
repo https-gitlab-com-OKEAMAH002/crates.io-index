@@ -1,0 +1,1 @@
+{"name":"lazybar-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.210","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59f7c8b3801a7032dfb9dd46ba2779ef1fc4d8cd644f31d251636dbf881202cb","features":{},"yanked":false,"rust_version":"1.61.0"}
