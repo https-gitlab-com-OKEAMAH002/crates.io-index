@@ -17,3 +17,4 @@
 {"name":"devlibx-base","vers":"0.0.114","deps":[],"cksum":"1a6a50f95413367f9c4fa68f7b2e91e065f73a98496cc29e433c13b6eb1aa2af","features":{},"yanked":false}
 {"name":"devlibx-base","vers":"0.2.1","deps":[],"cksum":"af406bd37b185c778dc4910b2ce8df36eae0cdeb8a50ffc588c225a8d48ba3de","features":{},"yanked":false}
 {"name":"devlibx-base","vers":"0.2.2","deps":[],"cksum":"2305028d4765f42830fb66d1245ea292d6d1a153933aba8f77389edb33de3896","features":{},"yanked":false}
+{"name":"devlibx-base","vers":"0.2.5","deps":[],"cksum":"ffc0543fb9a6bc28e8de7f7b75617602b082c9c8a188ac302e3adac11109cf44","features":{},"yanked":false}
