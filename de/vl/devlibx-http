@@ -9,3 +9,4 @@
 {"name":"devlibx-http","vers":"0.0.14","deps":[],"cksum":"f1ee1b4469dff539a0749a5d5f447a0e02ff4940b59bcf36a8a433977557b2cc","features":{},"yanked":false}
 {"name":"devlibx-http","vers":"0.0.15","deps":[],"cksum":"e357d1216fd91fff969679f660bb8b6737123a61837dfb738712855d0411cb41","features":{},"yanked":false}
 {"name":"devlibx-http","vers":"0.0.16","deps":[{"name":"devlibx-base","req":"^0.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58644e414ecedccc23873272c59dbefc2d42fd7d94e2ca83021c0ea2d5c93f4f","features":{},"yanked":false}
+{"name":"devlibx-http","vers":"0.0.18","deps":[{"name":"devlibx-base","req":"^0.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63374ba9db75b935eea76dd4aa67b7032e5d054dcd21ddcbbb2bbc21a21e72c0","features":{},"yanked":false}
