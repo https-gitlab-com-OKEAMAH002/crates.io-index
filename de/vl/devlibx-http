@@ -1,3 +1,4 @@
 {"name":"devlibx-http","vers":"0.1.0","deps":[],"cksum":"8f64daab9b03a50573faa4085b4e20d03cd0103c992684cc9f1672b7bd1ca866","features":{},"yanked":false}
 {"name":"devlibx-http","vers":"0.1.1","deps":[],"cksum":"5b74ead786d68eeb0c19f4859ede016e03eeac8d3a466f7fe87a661573e84940","features":{},"yanked":false}
 {"name":"devlibx-http","vers":"0.1.2","deps":[],"cksum":"8363f5b5d5385199af41b18c58a0136ba189fa74d56b41029cb792dc2d7d4816","features":{},"yanked":false}
+{"name":"devlibx-http","vers":"0.0.7","deps":[],"cksum":"4c9e984e807dd58fb1fa0953673c0a3baf31b16c4bdd3d4ac91b30063c4f77ad","features":{},"yanked":false}
