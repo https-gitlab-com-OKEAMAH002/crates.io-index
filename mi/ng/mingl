@@ -1,0 +1,1 @@
+{"name":"mingl","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c676b8b409b82a3f68f6d4afb834a4c54c024707981a6a6dc75edfb2e17eac48","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
