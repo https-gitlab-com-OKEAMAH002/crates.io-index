@@ -2,3 +2,4 @@
 {"name":"ports","vers":"0.2.0","deps":[],"cksum":"a35dcd9a350b2a2903d65108a0561a6ca5db6e3b0c951451cc65eefd4064ca3a","features":{},"yanked":false}
 {"name":"ports","vers":"0.3.0","deps":[],"cksum":"5b8a6d04c3562226a5771bb12550fa4532a3f1457e825046d48f9830da2f58de","features":{},"yanked":false}
 {"name":"ports","vers":"0.4.0","deps":[],"cksum":"84287e1757e67113bd30e8e7f9a877fee8a686d2e234e901e3749c40c64eaaec","features":{},"yanked":false}
+{"name":"ports","vers":"0.4.1","deps":[{"name":"verynicetable","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1242cba8400884ce0dd2be4f1f01d688df4a57be7c148be8cd4d110053a295aa","features":{},"yanked":false}
