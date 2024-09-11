@@ -1,0 +1,1 @@
+{"name":"disasm-core","vers":"0.5.0","deps":[],"cksum":"5b4bd28125c606f277a9981aee994b609ce0587413f924ac92aa151c8eabaaca","features":{"default":["print"],"mnemonic":[],"print":["std","mnemonic"],"std":[]},"yanked":false,"rust_version":"1.61"}
