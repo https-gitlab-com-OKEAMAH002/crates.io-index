@@ -1,1 +1,2 @@
 {"name":"sparkles-core","vers":"0.0.2","deps":[],"cksum":"e31d4954ce400e25c776b66db524fa688a5dd898fb890c64db2b20b4ea570a1b","features":{"accurate-events-x86":[],"default":[]},"yanked":false}
+{"name":"sparkles-core","vers":"0.0.3","deps":[{"name":"cortex-m","req":"^0.7.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9030e44ffd323b2b313e82c50b81de10ff1fcdb6129ff5c5e0c4fb968c813ab0","features":{"accurate-events-x86":[],"default":[]},"features2":{"cortex-m":["dep:cortex-m"]},"yanked":false,"v":2}
