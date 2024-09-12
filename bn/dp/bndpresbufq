@@ -1,1 +1,2 @@
 {"name":"bndpresbufq","vers":"0.1.0","deps":[{"name":"limq","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b8bb9a5e546ca150afd419fedb24df00d4b8d7ae38c3845a96b5ccef7e6affc","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"bndpresbufq","vers":"0.1.1","deps":[{"name":"limq","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9224afb8bd8c05f332264634b8b0f9a86f4dc02ea4fb6f59fbd35fe9912929d6","features":{},"yanked":false,"rust_version":"1.56"}
