@@ -1,0 +1,1 @@
+{"name":"libprimesieve","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.158","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca20d78fee077164feb350458d709f32d1697459757621065f9b818d51dfe16b","features":{},"yanked":false}
