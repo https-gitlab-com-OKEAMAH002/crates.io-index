@@ -1,4 +1,4 @@
 {"name":"hellooo","vers":"0.1.0","deps":[],"cksum":"f9571e60af2133d27d163743c9ca206296a1d5dcbeb0bbb07782a19b719d3180","features":{},"yanked":false}
-{"name":"hellooo","vers":"0.1.1","deps":[],"cksum":"b7aa5417e042cd4a2b06921d744dde5fa834a29139ecf922fd9deed03b15cb83","features":{},"yanked":false}
-{"name":"hellooo","vers":"0.1.2","deps":[],"cksum":"5795cfa356d9145a3f6c0bc91ec2eb6942616d67c30cd0436dee0e333e608c4f","features":{},"yanked":false}
+{"name":"hellooo","vers":"0.1.1","deps":[],"cksum":"b7aa5417e042cd4a2b06921d744dde5fa834a29139ecf922fd9deed03b15cb83","features":{},"yanked":true}
+{"name":"hellooo","vers":"0.1.2","deps":[],"cksum":"5795cfa356d9145a3f6c0bc91ec2eb6942616d67c30cd0436dee0e333e608c4f","features":{},"yanked":true}
 {"name":"hellooo","vers":"0.1.3","deps":[],"cksum":"134e58b237a193b06e3c43ccdea24dcdc9bc0a6bc311bf8324512a37aa76d510","features":{},"yanked":true}
