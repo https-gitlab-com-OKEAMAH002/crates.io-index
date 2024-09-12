@@ -1,0 +1,1 @@
+{"name":"my_lzo","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"686eb9c40505ededa9bc4f38314ae01da90b0253122965b3908940ef1bee5e22","features":{},"yanked":false}
