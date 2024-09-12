@@ -1,0 +1,1 @@
+{"name":"thread-async","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.40","features":["rt-multi-thread","time","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a56997047c6ad20ff61f6c3d366e8e8be26a58203d7fba247c91d3e9e0104692","features":{},"yanked":false}
