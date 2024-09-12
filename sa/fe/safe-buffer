@@ -1,2 +1,3 @@
 {"name":"safe-buffer","vers":"0.1.0","deps":[{"name":"fallible_collections","req":"^0.4.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7a3b60a2b260e91ab73735c84bd0c7937a0aebe6c375e23fa470a4d65c2158a","features":{},"yanked":false}
 {"name":"safe-buffer","vers":"0.2.0","deps":[],"cksum":"c44e59f4818039eda5e2c6bc250bd644cfb6ea9a80eb5147b80ea2c9ce753ebb","features":{},"yanked":false}
+{"name":"safe-buffer","vers":"0.2.1","deps":[],"cksum":"41401cea867ff706336dc0b44c79f28c8be42b14e5f9a4b9d2119d03cf3af5d3","features":{},"yanked":false}
