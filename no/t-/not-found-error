@@ -8,3 +8,4 @@
 {"name":"not-found-error","vers":"0.2.0","deps":[],"cksum":"6529b368d723c5858d703aaddc38312af38a17f6ff45184108a150310b00dae3","features":{},"yanked":false}
 {"name":"not-found-error","vers":"0.2.1","deps":[],"cksum":"87d75cb313e9a18d12a11e72a27884a47419c622fec63d61b0828c669aa1e71f","features":{},"yanked":false}
 {"name":"not-found-error","vers":"0.2.2","deps":[],"cksum":"3d097cdab91b70bdae410482fca37e73221b476771b4656e61c272ab31cfc8cf","features":{},"yanked":false}
+{"name":"not-found-error","vers":"0.2.3","deps":[],"cksum":"8f05a6809e0cba8f2d75fea10eeeb7e25bdd78a97c1d3f2dfc0d3fe64ffc2cfe","features":{},"yanked":false}
