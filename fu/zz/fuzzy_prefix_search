@@ -11,3 +11,4 @@
 {"name":"fuzzy_prefix_search","vers":"0.3.3","deps":[],"cksum":"31ac501b9aab999a8387dc363dabaaedf05c4f8c14905ddf6000aaf86932eea0","features":{},"yanked":false}
 {"name":"fuzzy_prefix_search","vers":"0.3.4","deps":[],"cksum":"693d1f4128695385de10a6e6b9a04a4f29f22683ed8a5fffcbeefd3dda77c716","features":{},"yanked":false}
 {"name":"fuzzy_prefix_search","vers":"0.3.5","deps":[],"cksum":"7380bbbdc9a6832f3725cd05dbd7c8c95cfaabbf29173d9cb93fb24dddb8e1e9","features":{},"yanked":false}
+{"name":"fuzzy_prefix_search","vers":"0.3.6","deps":[],"cksum":"f4683a85ade02b758acfe1ee3c9bac37ad0b980b5f76c8f999c22bc751cac90d","features":{},"yanked":false}
