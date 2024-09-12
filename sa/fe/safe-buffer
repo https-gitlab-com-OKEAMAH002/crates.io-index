@@ -2,3 +2,4 @@
 {"name":"safe-buffer","vers":"0.2.0","deps":[],"cksum":"c44e59f4818039eda5e2c6bc250bd644cfb6ea9a80eb5147b80ea2c9ce753ebb","features":{},"yanked":false}
 {"name":"safe-buffer","vers":"0.2.1","deps":[],"cksum":"41401cea867ff706336dc0b44c79f28c8be42b14e5f9a4b9d2119d03cf3af5d3","features":{},"yanked":false}
 {"name":"safe-buffer","vers":"0.2.2","deps":[],"cksum":"43e748d3b9f5431ab127a876035c7d2cd5bff2706f38b158f76d9e7370680953","features":{},"yanked":false}
+{"name":"safe-buffer","vers":"0.3.0","deps":[],"cksum":"f5cc3190b809b4a6d3254a3e8ede4331ca8fe48baef0774fa0ed19b3d7ef88de","features":{},"yanked":false}
