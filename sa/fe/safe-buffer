@@ -1,0 +1,1 @@
+{"name":"safe-buffer","vers":"0.1.0","deps":[{"name":"fallible_collections","req":"^0.4.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7a3b60a2b260e91ab73735c84bd0c7937a0aebe6c375e23fa470a4d65c2158a","features":{},"yanked":false}
