@@ -9,3 +9,4 @@
 {"name":"pc-keyboard","vers":"0.6.0","deps":[],"cksum":"32d2d3d49a70986a10cbbbf19e9703b627957b19d58f0fac5b9dcb60c16930c8","features":{},"yanked":false}
 {"name":"pc-keyboard","vers":"0.6.1","deps":[],"cksum":"e0ad9805165d0672a3efa682cac952870d8b05d98e02e08063ca7db597005338","features":{},"yanked":false}
 {"name":"pc-keyboard","vers":"0.7.0","deps":[],"cksum":"ed089a1fbffe3337a1a345501c981f1eb1e47e69de5a40e852433e12953c3174","features":{},"yanked":false}
+{"name":"pc-keyboard","vers":"0.8.0","deps":[],"cksum":"f0ca629cbb3f0d5b699c338f0129ff78c9bfd7ea8b1258ad529bff490dc8ed5a","features":{},"yanked":false}
