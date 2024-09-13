@@ -1,1 +1,2 @@
 {"name":"gravitron_utils","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.63","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ca90726f1b9bd39e5289020577e04c7d2aa87003eff0ec20af921ba1deb4d86","features":{},"yanked":false}
+{"name":"gravitron_utils","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.63","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d27a0fe38300ce6b4128100be8d65bac1f438730310d52ec20b4ba613a3589a","features":{},"yanked":false}
