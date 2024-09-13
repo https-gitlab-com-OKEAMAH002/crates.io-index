@@ -5,3 +5,4 @@
 {"name":"eloquent_core","vers":"0.2.0","deps":[],"cksum":"2d120fbe3721982fdd4a32d479a1c9868fa5e4dae6c7d65278a39d3c1ec845ee","features":{},"yanked":false}
 {"name":"eloquent_core","vers":"1.0.0","deps":[],"cksum":"a97ad4fed38829501df65b8ce56f935aa963629a7317e76c9499139dd3efacf5","features":{},"yanked":false}
 {"name":"eloquent_core","vers":"2.0.0","deps":[{"name":"sqlformat","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09eb2a30331f8cf4230957b4f1ad7c0c7716ecfda1ee10113cc80aa1d98baeb5","features":{},"yanked":false}
+{"name":"eloquent_core","vers":"2.0.1","deps":[{"name":"sqlformat","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7786cdb9099f2f53af27f2afc979f80c8e7b8c84b2ddd2156c2e6412ec81cb9b","features":{},"yanked":false}
