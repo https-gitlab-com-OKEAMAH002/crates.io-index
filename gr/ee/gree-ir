@@ -2,3 +2,4 @@
 {"name":"gree-ir","vers":"0.2.0","deps":[],"cksum":"3914bebf4e248fdc6499b47348e4ae0d278ac46520b490e51e514f51d2e29b4c","features":{},"yanked":false}
 {"name":"gree-ir","vers":"0.2.1","deps":[],"cksum":"f774ced652a5829bfb184666e62514a3be1231ad218c3d4a0e7735b4765e3833","features":{},"yanked":false}
 {"name":"gree-ir","vers":"0.2.2","deps":[],"cksum":"2652df54d6cc02c3ec320745eac9bb1b2a71f788d8e84c894e2d75db11fc55ca","features":{},"yanked":false}
+{"name":"gree-ir","vers":"0.2.3","deps":[],"cksum":"46ce138fa5a09aebbecee6a925bec76e329d9ba843449901299d740d2ea9e79c","features":{},"yanked":false}
