@@ -1,0 +1,1 @@
+{"name":"std-shims-mirror","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2467823fbb17d6eba5129ffc53e8db34343b82a8a618994e8ff120dbc18765de","features":{"default":["std"],"std":[]},"yanked":false}
