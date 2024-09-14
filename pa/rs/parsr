@@ -20,3 +20,4 @@
 {"name":"parsr","vers":"0.6.2","deps":[],"cksum":"d23f4308334e01a4b314fd60c2d7cd2267e48e32672cf0fd9a1f7d64f6b8ad86","features":{},"yanked":false}
 {"name":"parsr","vers":"0.7.1","deps":[],"cksum":"5a8ae7e155c011a5e893f541fdf6bc0a2acdf8b67f465c90c2d8fe7190e2c870","features":{},"yanked":false}
 {"name":"parsr","vers":"0.7.2","deps":[],"cksum":"32c4ddd3496f716e4e72ec35242283091b8e823ec3527370e9153844bb2fe14e","features":{},"yanked":false}
+{"name":"parsr","vers":"0.8.0","deps":[{"name":"unwrap-infallible","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb2df0e95fa97bf8cc2958f6817b2d23b999e1104629d0006f82fb93ccb16e01","features":{},"yanked":false}
