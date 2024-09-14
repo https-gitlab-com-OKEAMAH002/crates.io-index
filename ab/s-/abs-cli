@@ -1,0 +1,1 @@
+{"name":"abs-cli","vers":"0.1.0","deps":[{"name":"coloredpp","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27d5c6a870136bf0b39054ed8aee3809f4cb970609312efc52c5e38894bee351","features":{},"yanked":false}
