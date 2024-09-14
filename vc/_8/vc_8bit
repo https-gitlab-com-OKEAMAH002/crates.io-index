@@ -1,0 +1,1 @@
+{"name":"vc_8bit","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81bff08e950a03bf6374905c728f86e87ca6305696fbe0b2521e25d386f8f9ba","features":{},"yanked":false}
