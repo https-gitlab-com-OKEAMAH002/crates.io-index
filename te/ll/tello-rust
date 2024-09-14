@@ -1,0 +1,1 @@
+{"name":"tello-rust","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8c97dd626b036c7a2cdee480b1296e1a8f3385e66a571e29d22bb74ea19fbdb","features":{},"yanked":false}
