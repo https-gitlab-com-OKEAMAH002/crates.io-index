@@ -1,2 +1,2 @@
 {"name":"kittynode_core","vers":"0.1.51","deps":[],"cksum":"8d9179a18c71612098b1c9684070c8450c7cc786a153fec5532aa6f536c5d7b2","features":{},"yanked":false}
-{"name":"kittynode_core","vers":"0.1.52","deps":[],"cksum":"16ec722f442dd425b6753498995442810179359e59de3355f236fbefa4fe6154","features":{},"yanked":true}
+{"name":"kittynode_core","vers":"0.1.52","deps":[],"cksum":"16ec722f442dd425b6753498995442810179359e59de3355f236fbefa4fe6154","features":{},"yanked":false}
