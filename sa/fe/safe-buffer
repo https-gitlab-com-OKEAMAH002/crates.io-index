@@ -3,3 +3,4 @@
 {"name":"safe-buffer","vers":"0.2.1","deps":[],"cksum":"41401cea867ff706336dc0b44c79f28c8be42b14e5f9a4b9d2119d03cf3af5d3","features":{},"yanked":false}
 {"name":"safe-buffer","vers":"0.2.2","deps":[],"cksum":"43e748d3b9f5431ab127a876035c7d2cd5bff2706f38b158f76d9e7370680953","features":{},"yanked":false}
 {"name":"safe-buffer","vers":"0.3.0","deps":[],"cksum":"f5cc3190b809b4a6d3254a3e8ede4331ca8fe48baef0774fa0ed19b3d7ef88de","features":{},"yanked":false}
+{"name":"safe-buffer","vers":"0.4.0","deps":[{"name":"rand","req":"^0.9.0-alpha.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d97dfa1153f41ddb721ec4102fd3ca00b5f32d88427b45e13a65eec9f843b913","features":{},"yanked":false}
