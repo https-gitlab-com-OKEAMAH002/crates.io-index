@@ -8,5 +8,5 @@
 {"name":"tailvec","vers":"0.2.3","deps":[],"cksum":"c71ea3fcf2b4d77d48fbd84e89e7f5c83093bee10d73cdff829039ae8f793b50","features":{},"yanked":false}
 {"name":"tailvec","vers":"0.2.4","deps":[],"cksum":"d73ad459a46c05cb987abff87b0d0f77dcf970ebb2fb5e4387c549faa5d2b9e3","features":{},"yanked":false}
 {"name":"tailvec","vers":"0.2.5","deps":[],"cksum":"fa41ec426cf82bbfb77424d79a56e076754acec044da45654d00dfba42ec2190","features":{},"yanked":false}
-{"name":"tailvec","vers":"0.2.6","deps":[],"cksum":"785bca76034c4c583716ffb5536c7442be48221db66972843fff80a86bfcfbb7","features":{},"yanked":false}
+{"name":"tailvec","vers":"0.2.6","deps":[],"cksum":"785bca76034c4c583716ffb5536c7442be48221db66972843fff80a86bfcfbb7","features":{},"yanked":true}
 {"name":"tailvec","vers":"0.2.7","deps":[],"cksum":"fab46b421aa0faa5ef1fc9febc88a9c626b7d5b1c49e8a942d3665d9f6a9d1a2","features":{},"yanked":false}
