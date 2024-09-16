@@ -1,1 +1,2 @@
 {"name":"tabprinter","vers":"0.1.0","deps":[{"name":"termcolor","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e2d454ddfa4102e412921657e23e21b1b6e93bd17818b832757591bf563775c","features":{},"yanked":false}
+{"name":"tabprinter","vers":"0.1.1","deps":[{"name":"termcolor","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd77be60c25e637dcd10f5144f18e964649110caab90e9eff74d88db43915e8b","features":{},"yanked":false}
