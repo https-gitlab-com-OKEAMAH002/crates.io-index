@@ -1,0 +1,1 @@
+{"name":"wasi-passthrough","vers":"0.1.0-alpha.1","deps":[{"name":"wit-bindgen","req":"^0.32","features":["realloc","macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bf8840757961d2368f4e9e408713a7364fcb8c5374579808776009931136ac43","features":{},"yanked":false}
