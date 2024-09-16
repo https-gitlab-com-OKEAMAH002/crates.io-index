@@ -9,3 +9,4 @@
 {"name":"fp_lib","vers":"0.5.3","deps":[],"cksum":"3065f4f3325f6123c01eaf3dd96d3d0913c57e51d132d08e336132c4d85301d5","features":{},"yanked":false}
 {"name":"fp_lib","vers":"0.6.0","deps":[],"cksum":"814668cde83a79a0e7cd73a77ba63187744460476219ef45bfc3190d2b425c8b","features":{},"yanked":false}
 {"name":"fp_lib","vers":"0.6.1","deps":[],"cksum":"652dbc5afd6054936316e1668f89497b2bb27da2f513fce01975cd01ffac872c","features":{},"yanked":false}
+{"name":"fp_lib","vers":"0.6.2","deps":[],"cksum":"3a968fae7e3a929ea8cd3a8ebe5e74865f738c78c618f6d8a8affb1c50146f0f","features":{},"yanked":false}
