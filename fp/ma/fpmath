@@ -1,0 +1,1 @@
+{"name":"fpmath","vers":"0.1.0","deps":[{"name":"rustc_apfloat","req":"^0.2.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81703b6cbb67e71b10d8684a923407164dd6f4b26022b9fa2efe52b7a402ad54","features":{"default":[]},"features2":{"soft-float":["dep:rustc_apfloat"]},"yanked":false,"rust_version":"1.70","v":2}
