@@ -37,3 +37,4 @@
 {"name":"viewy-codegen","vers":"1.12.6","deps":[],"cksum":"b3c85628e2f7eb7db481907a27f2fe7cae9d012567c34fd689a21064d358cd65","features":{},"yanked":false}
 {"name":"viewy-codegen","vers":"1.12.7-beta.1","deps":[],"cksum":"f668625ce6e305bcbf485dac83716879bfe859ea42573c0dd52018ec3b2242e2","features":{},"yanked":false}
 {"name":"viewy-codegen","vers":"1.12.7","deps":[],"cksum":"7a8827ab16af8547fc5d0c1b11c9f01b6f0bd09f3d5f59f4aa8643b086f79405","features":{},"yanked":false}
+{"name":"viewy-codegen","vers":"1.12.8-alpha.1","deps":[],"cksum":"7fb361b154d20838fd6422bbf648b0cf982edbd7f86ce07b84ccf311c48db309","features":{},"yanked":false}
