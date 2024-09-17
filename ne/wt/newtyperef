@@ -1,0 +1,1 @@
+{"name":"newtyperef","vers":"0.1.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"864e39cc3c7e7d2019235f6a281d321b6dbe497450e6b053b11704005a6ba867","features":{},"yanked":false}
