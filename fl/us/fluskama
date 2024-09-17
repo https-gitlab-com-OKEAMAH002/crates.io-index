@@ -1,0 +1,1 @@
+{"name":"fluskama","vers":"0.1.0","deps":[{"name":"askama","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fluffer","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff5670d01c7792098cd0bb9491d68033f0eef0f6fe6c1ca9ba90766ca43e748b","features":{},"yanked":false}
