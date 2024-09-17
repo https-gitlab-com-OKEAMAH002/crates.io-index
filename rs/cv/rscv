@@ -1,0 +1,1 @@
+{"name":"rscv","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"400eeb632c9fc76b8050286572d61d458cc90563f1deeae2d9a3aa2718b3d41b","features":{},"yanked":false}
