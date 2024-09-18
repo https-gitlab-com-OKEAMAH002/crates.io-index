@@ -1,0 +1,1 @@
+{"name":"iced_fonts","vers":"0.1.0","deps":[{"name":"iced_core","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a176fc7ab110cc7e12e95b2d31cbf00a3972b0e1643ea757040f91130bb6327","features":{"bootstrap":[],"full":["bootstrap","nerd"],"nerd":[]},"yanked":false}
