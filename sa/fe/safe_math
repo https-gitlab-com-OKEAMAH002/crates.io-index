@@ -2,3 +2,4 @@
 {"name":"safe_math","vers":"0.1.1","deps":[],"cksum":"f882c074fc7a1b9267c0e120ac61741a67d89fba77e26dd87e6a788e85309878","features":{},"yanked":false}
 {"name":"safe_math","vers":"0.2.0","deps":[],"cksum":"73869baa47201b9a3feba2cbb1b3e21ded8f35437605e19ca7edc0f757c7df95","features":{},"yanked":false}
 {"name":"safe_math","vers":"0.2.1","deps":[],"cksum":"341a972115faae83b1a22fa46d710b1165a770a4468da04103b44757308b80e4","features":{},"yanked":false}
+{"name":"safe_math","vers":"0.2.2","deps":[],"cksum":"f4460ce9b89966b0bc650968aab6c0534c015f2ef02e967ea007e41a8457a187","features":{},"yanked":false}
