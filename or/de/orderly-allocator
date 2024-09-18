@@ -1,1 +1,2 @@
 {"name":"orderly-allocator","vers":"0.0.0","deps":[],"cksum":"2f6aeb8d9898c200e6535ff2608a7adb52e94726b36c9736c94715d607bdce68","features":{},"yanked":true}
+{"name":"orderly-allocator","vers":"0.1.0","deps":[],"cksum":"49d1e9231e28af4bd1675b16fdc2c3ccf4f5de017771161979f38cebb776cc0a","features":{},"yanked":false}
