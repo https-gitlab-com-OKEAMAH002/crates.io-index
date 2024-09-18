@@ -3,3 +3,4 @@
 {"name":"tss2-fapi-rs","vers":"0.1.2","deps":[],"cksum":"5e4a1a4b6521e778dbfb4baacf54dc8f57f0b874e72cf1d2b50aca7a1184f897","features":{},"yanked":false}
 {"name":"tss2-fapi-rs","vers":"0.1.3","deps":[],"cksum":"19edd773d9a364dcbbb9e951c3b1381103f326769c98b998a4e1664af3b46b32","features":{},"yanked":false}
 {"name":"tss2-fapi-rs","vers":"0.1.4","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dd1de17397b47fad6a26548d0101b8bc76dc5ce596716c11d4909eeec8558a6","features":{},"yanked":false}
+{"name":"tss2-fapi-rs","vers":"0.1.5","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45ffaf8b3e42d5577982497d07c4b1df72fc222af03d3ecf0693f1de514d9c93","features":{},"yanked":false}
