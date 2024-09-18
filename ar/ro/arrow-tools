@@ -21,3 +21,4 @@
 {"name":"arrow-tools","vers":"0.17.10","deps":[],"cksum":"408a012d2543efe00a5d64bc4429fa6e03a11f01deb90310efb7d318b020ba93","features":{},"yanked":false}
 {"name":"arrow-tools","vers":"0.18.0","deps":[],"cksum":"8ffb0766afc036afc118ad728103357b9f9e817442e41ca3db6db06b9e8e92c5","features":{},"yanked":false}
 {"name":"arrow-tools","vers":"0.18.1","deps":[],"cksum":"299602ded3eeeb43828e7192833f220d1edc599745579b87f132e89054b76f5c","features":{},"yanked":false}
+{"name":"arrow-tools","vers":"0.19.0","deps":[],"cksum":"592f29b4208a13f1206975784474eee559bb95beb422e5ef29eb375a70d3e331","features":{},"yanked":false}
