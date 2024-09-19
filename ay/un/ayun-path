@@ -1,0 +1,1 @@
+{"name":"ayun-path","vers":"0.20.0","deps":[{"name":"ayun-core","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d97e650fb271c75f9fb0102ca4e60ebbd6f01323bb0b16f9e1a92b492dd9e129","features":{},"yanked":false}
