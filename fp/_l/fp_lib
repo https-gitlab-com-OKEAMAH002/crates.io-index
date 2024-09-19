@@ -13,3 +13,4 @@
 {"name":"fp_lib","vers":"0.6.3","deps":[],"cksum":"1ded44836a738f4a3a46768081011a922db542afa1abee5f64e4347d48fd9c53","features":{},"yanked":false}
 {"name":"fp_lib","vers":"0.7.0","deps":[],"cksum":"da1842c0dd1b1fce033de828a34a24b5d3660dbe11479f4413ac08b3284d71f3","features":{},"yanked":false}
 {"name":"fp_lib","vers":"0.8.0","deps":[],"cksum":"3980bddc72f454ca54121c231347579380e3ea4a743b4b97f6fdd5d738f3191b","features":{},"yanked":false}
+{"name":"fp_lib","vers":"0.8.1","deps":[],"cksum":"c6c140114fc3ffa9c17588b7db45ed798fb1f4101675c6b57ae03a1c5d1167b7","features":{},"yanked":false}
