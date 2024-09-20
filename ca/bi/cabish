@@ -1,0 +1,1 @@
+{"name":"cabish","vers":"0.1.0","deps":[{"name":"wasmtime-cabish","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b50c99fd65ed04bd2288b8e94a0e43626f4902965c73d10db2b6f52554c8893","features":{},"yanked":false}
