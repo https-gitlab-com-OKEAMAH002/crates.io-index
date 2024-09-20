@@ -13,3 +13,4 @@
 {"name":"arday11ChessLibrary","vers":"0.2.3","deps":[],"cksum":"e77084be0b58795114006fd75a427881eda61b3703a6ef9b537e6a40dd638728","features":{},"yanked":false}
 {"name":"arday11ChessLibrary","vers":"0.3.0","deps":[],"cksum":"febebd5169c41a9e9204e5734faf815fc18a68a479205a2bd9a623270a7cdce0","features":{},"yanked":false}
 {"name":"arday11ChessLibrary","vers":"0.3.1","deps":[],"cksum":"e6c96b0f11c4389fd79c729863cc22e107c07edbfd9a33d58e91c457acfdb955","features":{},"yanked":false}
+{"name":"arday11ChessLibrary","vers":"0.3.2","deps":[],"cksum":"4c894708e995b78c053945b3fac16ccc921d6016a45fd908c949bf0fc2f8f6d9","features":{},"yanked":false}
