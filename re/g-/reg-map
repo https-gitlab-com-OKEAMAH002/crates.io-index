@@ -1,0 +1,1 @@
+{"name":"reg-map","vers":"0.1.0","deps":[{"name":"reg-map-derive","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05de6bc53fabbee28e8c3fb2a7581e2d82b0322736462233e7188f0e6243fd62","features":{},"yanked":false}
