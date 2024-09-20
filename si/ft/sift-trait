@@ -1,0 +1,1 @@
+{"name":"sift-trait","vers":"0.1.4","deps":[{"name":"either","req":"^1.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2db92b1d719ccc3edc32663fefb0e85dff9d38ed35b5fbc19c154e188f44710","features":{},"yanked":false}
