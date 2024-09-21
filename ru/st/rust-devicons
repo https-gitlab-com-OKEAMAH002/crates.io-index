@@ -1,0 +1,1 @@
+{"name":"rust-devicons","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2efc4d0fb4dc87d6281c0c8db88cd78cd80496de4bb2904cf3d194ea58673fa2","features":{},"yanked":false}
