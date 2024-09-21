@@ -1,0 +1,1 @@
+{"name":"sign-bound","vers":"1.0.0","deps":[{"name":"proptest","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"559edb978845cadc135a14a305260f280dc0209c1ac6edc018c20f4d1a867e8d","features":{},"yanked":false}
