@@ -1,0 +1,1 @@
+{"name":"octokey","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b57ebc02b5b7477e43850f369884bce1818b854a3c8f33d55152df34af356594","features":{},"yanked":false}
