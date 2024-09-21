@@ -1,1 +1,2 @@
 {"name":"fastlz-rs","vers":"0.0.1","deps":[],"cksum":"a448a3a1a60b5903cbfa15fafe62d920b1cf48ceef46dd8a06342208abfb78d9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"fastlz-rs","vers":"0.0.2","deps":[{"name":"wasmi","req":"^0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec0b9cbc6bb925f32c2d83a3e9fd2a33d059bdd5ce4d13db9510dbc299d122be","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
