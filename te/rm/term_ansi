@@ -4,3 +4,4 @@
 {"name":"term_ansi","vers":"0.2.2","deps":[],"cksum":"a025cfd69d23f08fb05d18d4b76a8cec2d1c30f6e71838f147d8340af1949777","features":{},"yanked":false}
 {"name":"term_ansi","vers":"0.2.3","deps":[],"cksum":"073cdad437ab12f9bec00fcf1ac2ea8a4b2b21f89403b0ba8df8cc9e0771a634","features":{},"yanked":false}
 {"name":"term_ansi","vers":"0.2.4","deps":[],"cksum":"f1db1e5bc03965c9ef4ff74202bf086239c92df87e2a2061ac9420d7e5d0c289","features":{},"yanked":false}
+{"name":"term_ansi","vers":"0.2.5","deps":[],"cksum":"30631c685330f69d916beee61e8f599a81a412a876cf018fc1bc777179010f14","features":{},"yanked":false}
