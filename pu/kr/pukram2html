@@ -1,0 +1,1 @@
+{"name":"pukram2html","vers":"0.1.1","deps":[{"name":"pukram-formatting","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cc2f0b506ba5652ffb650a1a124d23df4c01d17a8fb80a6bc9c0015dc99b8b0","features":{},"yanked":false}
