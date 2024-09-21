@@ -7,3 +7,4 @@
 {"name":"ZHRXXLib","vers":"0.1.7","deps":[],"cksum":"85b9bb088f0d7bc235b4d0ff77246377502b9437bd76e80b65bd41662aab37fe","features":{},"yanked":false}
 {"name":"ZHRXXLib","vers":"0.1.8","deps":[],"cksum":"8c20dbb90efeda3a5052dcc0aeff57a7a82db56308589fc640c47f4509bcccd3","features":{},"yanked":false}
 {"name":"ZHRXXLib","vers":"0.1.9","deps":[],"cksum":"cf1223571a45a090fd3432586df2f2535e961e7bf736985e69fa14f55009c93d","features":{},"yanked":false}
+{"name":"ZHRXXLib","vers":"0.2.0","deps":[],"cksum":"ebb797c0cacb73ddec905e48572df27ac78cbc025312be586148d9581721818c","features":{},"yanked":false}
