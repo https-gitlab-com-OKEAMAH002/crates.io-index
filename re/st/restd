@@ -1,1 +1,2 @@
 {"name":"restd","vers":"0.1.0","deps":[],"cksum":"2805d1148f6262439940aa69ce8cf06fe37263b09c2de41bc82a3fa0338f255c","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"restd","vers":"0.1.1","deps":[],"cksum":"7d18f7aeff38a14353218118a40cf259ff221abc3dcfb9d102e43d55ae5b5475","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
