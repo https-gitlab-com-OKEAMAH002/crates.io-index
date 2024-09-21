@@ -9,3 +9,4 @@
 {"name":"ZHRXXLib","vers":"0.1.9","deps":[],"cksum":"cf1223571a45a090fd3432586df2f2535e961e7bf736985e69fa14f55009c93d","features":{},"yanked":false}
 {"name":"ZHRXXLib","vers":"0.2.0","deps":[],"cksum":"ebb797c0cacb73ddec905e48572df27ac78cbc025312be586148d9581721818c","features":{},"yanked":false}
 {"name":"ZHRXXLib","vers":"0.2.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b04f6cb5915c795e8ab71a267a00b559d1ed7fdd5ce5afdcd67307c91f181fdd","features":{},"yanked":false}
+{"name":"ZHRXXLib","vers":"0.2.2","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92e50d4f05301064c72686c49a159bbebf64fb859abd4830e8d0a9547a3388bf","features":{},"yanked":false}
